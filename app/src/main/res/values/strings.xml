@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">makbantengVPN</string>
+    <string name="labelapp">Makbanteng</string>
+    <string name="navigation_drawer_open">drawer open</string>
+    <string name="navigation_drawer_close">drawer close</string>
+    <string name="connect">Start</string>
+    <string name="connecting">Connecting</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connection_close_confirm">Would you like to cancel the current VPN Connection?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="priv_c">Privacy &amp; policy</string>
+    <string name="term_c">Terms of services</string>
+
+    <string name="Admob_app_id">ca-app-pub-6841438106698846~3675173511</string>
+    <string name="Admob_banner_id">ca-app-pub-6841438106698846/9234317060</string>
+
+    //
+    <string name="lbl_country">Country</string>
+    <string name="lbl_noinfo">Can\'t get country information</string>
+    <string name="lbl_start">Touch image below or tap start</string>
+    <string name="lbl_waitserv">Menunggu koneksi server!</string>
+    <string name="lbl_authserv">server otentikasi!</string>
+    <string name="lbl_reconSer">Konek ulang…</string>
+    <string name="lbl_nonetserv">gak ada internet </string>
+    //
+    <string name="lbl_update">Your application is outdated, needs updating \n We strongly recommend doing, updating the device.</string>
+    <string name="lbl_likeapp">Like this App ? \n give 5 star now ,click OK to continue.</string>
+    <string name="txt_notnow">Not now</string>
+    //
+    <string name="intr_1jdl">Acces Any content</string>
+    <string name="intr_1deks">Makbanteng VPN restore your online freedom by unblocking the web and encryption your connection.\n Acces all the best sites and services no matter your location</string>
+    <string name="intr_2jdl">Lower Ping and Latency</string>
+    <string name="intr_2deks">Latency happens when there is a big distance between your server and the gaming server. \n By using a VPN , you can connected one of our 69+ worldwide servers location to reduce ping and latency</string>
+    <string name="intr_3jdl">Zero Log</string>
+    <string name="intr_3deks">Your identity and activities are only known to you.</string>
+    <string name="intr_4jdl">The Fastest connection</string>
+    <string name="intr_4deks">We choose best server in worldwide</string>
+</resources>

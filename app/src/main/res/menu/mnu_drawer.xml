@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mnu1" android:title="Change Server" android:icon="@drawable/svpn__country_flag"/>
+    <item android:id="@+id/mnu2" android:title="Privacy Policy" android:icon="@drawable/shield"/>
+    <item android:id="@+id/mnu3" android:title="Terms of Service" android:icon="@drawable/list"/>
+    <item android:id="@+id/mnu4" android:title="Rate App on Google Play" android:icon="@drawable/like"/>
+    <item android:id="@+id/mnu5" android:title="About" android:icon="@drawable/info"/>
+</menu>

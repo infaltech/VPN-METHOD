@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">makbantengVPN</string>
+    <string name="labelapp">Makbanteng</string>
+    <string name="navigation_drawer_open">drawer open</string>
+    <string name="navigation_drawer_close">drawer close</string>
+    <string name="connect">Mulai</string>
+    <string name="connecting">Menghubungkan</string>
+    <string name="disconnect">Putuskan</string>
+    <string name="connection_close_confirm">Apa Anda ingin membatalkan Koneksi VPN?</string>
+    <string name="yes">Iya</string>
+    <string name="no">Gak</string>
+    <string name="priv_c">Privacy &amp; policy</string>
+    <string name="term_c">Terms of services</string>
+
+    <string name="Admob_app_id">ca-app-pub-6841438106698846~3675173511</string>
+    <string name="Admob_banner_id">ca-app-pub-6841438106698846/3765004558</string>
+
+    //
+    <string name="lbl_country">Negara</string>
+    <string name="lbl_noinfo">Tidak dapat menemukan informasi</string>
+    <string name="lbl_start">sentuh gambar dibawah atau tap untuk memulai</string>
+    <string name="lbl_waitserv">Waiting for server connection!!</string>
+    <string name="lbl_authserv">Server authenticating!!</string>
+    <string name="lbl_reconSer">Reconnecting…</string>
+    <string name="lbl_nonetserv">No network connection</string>
+    //
+    <string name="lbl_update">Aplikasi usang, Mohon diperbaharui \n sangat menyarankan agar segera diperbaharui</string>
+    <string name="lbl_likeapp">Suka Aplikasi ini? \n beri 5 bintang sekarang, klik ok untuk melanjutkan.</string>
+    <string name="txt_notnow">Nanti</string>
+    //
+    <string name="intr_1jdl">Akses konten apa pun</string>
+    <string name="intr_1deks">Speed VPN memulihkan kebebasan online Anda dengan membuka blokir web dan mengenkripsi koneksi Anda.\n Dan Akses semua situs dan layanan terbaik di mana pun lokasi Anda</string>
+    <string name="intr_2jdl">Ping dan Latensi Lebih Rendah</string>
+    <string name="intr_2deks">Latensi terjadi ketika ada jarak yang jauh antara server Anda dan server game. \n Dengan menggunakan VPN, Anda dapat menghubungkan salah satu dari 69+ kami di seluruh dunia \n lokasi server untuk mengurangi ping dan latensi</string>
+    <string name="intr_3jdl">Tidak ada rekaman</string>
+    <string name="intr_3deks">Identitas dan aktivitas Anda hanya diketahui oleh Anda.</string>
+    <string name="intr_4jdl">Koneksi tercepat</string>
+    <string name="intr_4deks">Kami memilih server terbaik di seluruh dunia</string>
+</resources>

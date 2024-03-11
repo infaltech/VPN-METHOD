@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634560343857",
+    "project_id": "makbantengvpn-604e0",
+    "storage_bucket": "makbantengvpn-604e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634560343857:android:7930cea1ed0bd1155e0a10",
+        "android_client_info": {
+          "package_name": "com.makbanteng.mychet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634560343857-tpv2n37qk3o1ll0fhvni3glqtq3686in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP9LXCtdstTw61CzwSv4P9h2wGuAjkYqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634560343857-tpv2n37qk3o1ll0fhvni3glqtq3686in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

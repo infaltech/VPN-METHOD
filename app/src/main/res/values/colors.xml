@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#161616</color>
+    //303030 0b0c1b 039be5
+    //303030 0b0c1b 38C0F8
+    <color name="colorPrimaryDark">#161616</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="iconNormal">#9193a8</color>
+    //9193a8 CECECE
+    <color name="colordialog">#2196F3</color>
+
+
+    //303030 0b0c1b 38C0F8
+    //303030 0b0c1b 38C0F8
+    //303030 0b0c1b 38C0F8
+    //303030 0b0c1b 38C0F8
+    //303030 0b0c1b 039be5
+    //303030 0b0c1b 38C0F8
+
+    //303030 0b0c1b 38C0F8
+    //303030 0b0c1b 38C0F8
+
+    <!-- <color name="colorBlue">#42A5F5</color> -->
+
+    <!-- <color name="colorLightBlue">#5FADEC</color> -->
+
+    <color name="bgdiscon">#ffa116</color>
+
+    <color name="blueBottom">#41488d</color>
+    <color name="bluebtLig">#825ffe</color>
+    <color name="redDark">#CA3434</color>
+    <!-- material UI -->
+    <color name="grey_20">#cccccc</color>
+</resources>
